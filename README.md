@@ -6,11 +6,7 @@ Objetivo
 
 O principal objetivo deste projeto é criar uma página de login atraente e funcional usando os conceitos básicos de desenvolvimento Front End. Essa página faz parte de um sistema de gestão de empresas.
 
-Tecnologias UtilizadasHTML: Para a estrutura da página.CSS: Para o estilo e layout da página.Git e GitHub: Para o controle de versão e hospedagem do código.GitHub Pages: Para implantação e hospedagem.Desafios
-
-Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes desafios:
-
-Replicação da estrutura e estilo da página de login sem utilizar uma ferramenta de interface.Preview
+Tecnologias Utilizadas HTML: Para a estrutura da página.CSS: Para o estilo e layout da página.Git e GitHub: Para o controle de versão e hospedagem do código.GitHub Pages: Para implantação e hospedagem.
 
 Deploy
 
